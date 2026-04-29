@@ -1,10 +1,7 @@
 # 📡 Cellular Telephony Network — GSM-Based Remote Relay Control System
  
 <div align="center">
-![QUANTRON](https://img.shields.io/badge/Team-QUANTRON-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-ATmega328P-green?style=for-the-badge)
-![GSM](https://img.shields.io/badge/GSM-SIM800L-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![QUANTRON]([https://img.shields.io/badge/Team-QUANTRON-blue?style=for-the-badge](https://github.com/CodElectrons/Cellular-telephony-networks-embedded-systems-project-/blob/main/images/3D_bb.png))
  
 **A GSM-based embedded system that remotely controls two relay channels via SMS commands and phone calls using the SIM800L module and ATmega328P microcontroller.**
  
